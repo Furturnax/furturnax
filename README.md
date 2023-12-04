@@ -6,11 +6,13 @@ I'm junior python developer, street photographer, ex Sony's salesman and just ha
 
 ### Languages and Tools: <img src="https://media.giphy.com/media/XT9HMdwmpHqqOu1f1a/giphy.gif" width="25px">
 
-<img src="./assets/image-8.png" alt="Python" width="94" height="94">
-<img src="./assets/image-7.png" alt="Django" width="94" height="94">
-<img src="./assets/image-9.png" alt="SQL" width="94" height="94">
-<img src="./assets/image-10.png" alt="GitHub" width="94" height="94">
-<img src="./assets/image-11.png" alt="GitHub" width="94" height="94">
+<div style="display: flex;">
+  <img src="./assets/image-8.png" alt="Python" width="94" height="94">
+  <img src="./assets/image-7.png" alt="Django" width="94" height="94">
+  <img src="./assets/image-9.png" alt="SQL" width="94" height="94">
+  <img src="./assets/image-10.png" alt="GitHub" width="94" height="94">
+  <img src="./assets/image-11.png" alt="GitHub" width="94" height="94">
+</div>
 
 <br>
 
