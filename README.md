@@ -6,30 +6,30 @@ I'm junior python developer, street photographer, ex Sony's salesman and just ha
 
 ### Languages and Tools: <img src="https://media.giphy.com/media/XT9HMdwmpHqqOu1f1a/giphy.gif" width="25px">
 
- <img src="image-8.png" alt="Python" width="94" height="94">
- <img src="image-7.png" alt="Django" width="94" height="94">
- <img src="image-9.png" alt="SQL" width="94" height="94">
- <img src="image-10.png" alt="GitHub" width="94" height="94">
- <img src="image-11.png" alt="GitHub" width="94" height="94">
+ <img src="./assets/image-8.png" alt="Python" width="94" height="94">
+ <img src="./assets/image-7.png" alt="Django" width="94" height="94">
+ <img src="./assets/image-9.png" alt="SQL" width="94" height="94">
+ <img src="./assets/image-10.png" alt="GitHub" width="94" height="94">
+ <img src="./assets/image-11.png" alt="GitHub" width="94" height="94">
 
 <br>
 
 ### Connect with me <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NzYXM4MWZzd3pveXAxZncxaGcyNGJxbmIxZm0wYzh3bWg0MTRscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QSz4qjPPIkt2TWDd8N/giphy.gif" width="25px">
 
 <a href="https://www.instagram.com/drew.raw/">
-  <img src="image-2.png" alt="Instagram link" width="94" height="94">
+  <img src="./assets/image-2.png" alt="Instagram link" width="94" height="94">
 </a>
 <a href="https://open.spotify.com/user/ldt15dbuezwabm7lje2sl6sam">
-  <img src="image-6.png" alt="Spotify link" width="94" height="94">
+  <img src="./assets/image-6.png" alt="Spotify link" width="94" height="94">
 </a>
 <a href="https://t.me/furturnax/">
-  <img src="image-1.png" alt="Telegram link" width="94" height="94">
+  <img src="./assets/image-1.png" alt="Telegram link" width="94" height="94">
 </a>
 <a href="https://discord.com/users/furturna">
-  <img src="image-3.png" alt="Discord link" width="94" height="94">
+  <img src="./assets/image-3.png" alt="Discord link" width="94" height="94">
 </a>
 <a href="mailto:furturnax@gmail.com">
-  <img src="image-5.png" alt="Discord link" width="94" height="94">
+  <img src="./assets/image-5.png" alt="Discord link" width="94" height="94">
 </a>
 
 <br>
