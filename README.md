@@ -56,7 +56,7 @@ Discover something new for yourself <img src="https://media.giphy.com/media/v1.Y
 <div style="display: flex; flex-direction: column;">
   <div>
     <a href="https://open.spotify.com/user/ldt15dbuezwabm7lje2sl6sam">
-      <img src="https://spotify-profile-pi.vercel.app/api/spotify/?background_color=212121" alt="Spotify">
+      <img src="https://novatorem-five-ebon.vercel.app/api/spotify/?background_color=212121" alt="Spotify">
     </a>
   </div>
   <div>
