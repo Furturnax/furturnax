@@ -42,7 +42,7 @@ I'm junior python developer, street photographer, ex Sony's salesman and just ha
 
 ### Listen to music with me and program your project
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRqMTlsem9yM292b216eXMwbTBjb3hiZDdocnJ4dmczZGkzeWEyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gF2GW1BYjTdfoaKNtu/giphy.gif" width="240px"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVzYzF2MXQ2cjRibWdoajNrbTNzcW01bGF4NHF4dHduemY3ZTloeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5nqQZQyMNQMjrDVvSE/giphy.gif" width="240px">
+<!---<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRqMTlsem9yM292b216eXMwbTBjb3hiZDdocnJ4dmczZGkzeWEyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gF2GW1BYjTdfoaKNtu/giphy.gif" width="240px"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVzYzF2MXQ2cjRibWdoajNrbTNzcW01bGF4NHF4dHduemY3ZTloeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5nqQZQyMNQMjrDVvSE/giphy.gif" width="240px">--->
 
 Discover something new for yourself <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhmdG4zNmRkN2hoeWtsZm1qZXBnNWN0ZXM3bHhicGNzNjQ2M3QwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LsVTr9FSIMLox6e3Qw/giphy.gif" width="25px">
 
@@ -54,11 +54,11 @@ Discover something new for yourself <img src="https://media.giphy.com/media/v1.Y
 [![Spotify](https://img.shields.io/badge/Deep%20House-8A4581?style=flat-square)](https://open.spotify.com/playlist/5Cer7hJEvZ4WeQNVTjTDhV)
 
 <div style="display: flex; flex-direction: column;">
-  <div>
+  <!--- <div>
     <a href="https://open.spotify.com/user/ldt15dbuezwabm7lje2sl6sam">
       <img src="https://novatorem-five-ebon.vercel.app/api/spotify/?background_color=212121" alt="Spotify">
     </a>
-  </div>
+  </div> --->
   <div>
     <a href="https://open.spotify.com/user/ldt15dbuezwabm7lje2sl6sam">
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=ldt15dbuezwabm7lje2sl6sam&width=480" alt="Spotify recently played">
